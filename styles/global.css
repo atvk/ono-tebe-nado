@@ -7,8 +7,8 @@
 body {
   max-width: 1440px;
   min-width: 1080px;
-  height: 2844px;
-  margin: 0;
+  max-height: 2844px;
+  margin: 0 auto;
   font-family: Raleway, sans-serif;
   list-style-position:inside;
 }
